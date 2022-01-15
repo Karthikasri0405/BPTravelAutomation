@@ -7,7 +7,6 @@ public class PrintUtills {
 		{
 			System.out.println(msg);
 			Reporter.log(msg);
-			// Extent report log (msg)
 
 		}
 		
@@ -16,7 +15,6 @@ public class PrintUtills {
 		{
 			System.err.println(msg);
 			Reporter.log(msg);
-			// Extent report log (msg)
 		}
 		
 		
