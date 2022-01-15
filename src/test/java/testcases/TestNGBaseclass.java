@@ -17,6 +17,8 @@ import Pages.myLogout;
 import Pages.myviewQuote;
 
 public class TestNGBaseclass extends Seleniumbasics {
+	
+	// Karthika
 	public WebDriver driver=null;
 
 	public myLoginPage _myloginPage= null;
